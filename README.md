@@ -14,7 +14,6 @@ A high-performance, quantized document chatbot powered by Mistral:7b-instruct-v0
 ### 1. System Requirements
 - Windows 10/11 or Linux/macOS
 - Python 3.8+
-- CUDA-capable GPU (recommended, but not mandatory)
 
 ### 2. Install Ollama (Windows)
 
@@ -43,7 +42,7 @@ ollama pull mistral:7b-instruct-v0.2-q4_K_M
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/igl-document-chatbot.git
+git clone https://github.com/sh-shrey/igl-document-chatbot.git
 cd igl-document-chatbot
 ```
 
